@@ -13,6 +13,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aleksey-999&theme=buefy" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aleksey-999&theme=onedark" />
-</p>
+
